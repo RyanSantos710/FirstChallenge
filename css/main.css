@@ -312,6 +312,11 @@ body{
 }
 
 div.solution{
-display: none;
+    display: none;
 }
+
+html{
+    padding: 1em;
+}
+
 
