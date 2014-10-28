@@ -313,10 +313,26 @@ body{
 
 div.solution{
     display: none;
+    color: blue;
+    text-decoration: underline;
 }
 
 html{
-    padding: 1em;
+    color: black ;
+    text-align: center;
 }
 
+div#answer{
+    color: rgb(7, 153, 70);
+    font-size: 2em;
+}
+
+h1{
+    margin-bottom: 0em;
+}
+
+p{
+    margin-top: 0em;
+    margin-bottom: 3em;
+}
 
